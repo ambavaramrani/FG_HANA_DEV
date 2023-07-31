@@ -1,0 +1,27 @@
+{
+"role": {
+
+    "name": "com.FG_HANA_DEV::Test_Access_g#",
+
+     "schema_privileges": [
+
+        {
+
+            "privileges_with_grant_option": [
+
+                "SELECT",
+
+                "SELECT CDS METADATA",
+
+                "UPDATE",
+
+                "EXECUTE"
+
+            ]
+
+        }
+
+    ]    
+
+     }
+}
